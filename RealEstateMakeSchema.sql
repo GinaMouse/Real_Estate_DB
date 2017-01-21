@@ -1,6 +1,6 @@
 -- -----------------------------------------------------
 -- Create Project 2 Real Estate Database
--- LGina Hall
+-- Gina Hall
 -- -----------------------------------------------------
 
 set sqlblanklines on
