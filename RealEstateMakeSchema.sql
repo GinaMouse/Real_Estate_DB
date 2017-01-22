@@ -52,10 +52,10 @@ FOREIGN KEY (branchId) REFERENCES Branch(branchId)
 -- Values in Employee: 6 Test Values -------------------
 -- -----------------------------------------------------
 insert into Employee (empId, empName, empPhone, empEmail, salaryMonth, branchId) 
-VALUES ('101', 'Chandra Simms', '5127865607', 'chandrarealtor93@goldenseller.org', 57387.90, '1');
+VALUES ('101', 'Chandra Simms', '5127298607', 'crt@seller.org', 57387.90, '1');
 
 insert into Employee (empId, empName, empPhone, empEmail, salaryMonth, branchId) 
-VALUES ('102', 'Gina Hall', '5124893456', 'gmh49@txstate.edu', 71893.11, '2');
+VALUES ('102', 'Gina Hall', '5124893456', 'ginamouse@gmail.edu', 71893.11, '2');
 
 insert into Employee (empId, empName, empPhone, empEmail, salaryMonth, branchId) 
 VALUES ('103', 'Lyle Denman', '7849476355', 'yomamma@imgur.com', 58357.61, '3');
